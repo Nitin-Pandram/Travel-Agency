@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body{
+height: 100%;
+width: 100%;
+padding: 0px 150px 0px 150px;
+}
+
+.main{
+background-color: rgb(2, 34, 23);
+height: 100%;
+color: rgb(248, 243, 243);
+width: 100%;
+background-image: url(./sculpture-city-long-exposure-complex-amazing_1122-1706.avif);
+/* background-image: url(./26517972.jpeg); */
+background-position: center;
+background-size: cover;
+background-repeat:no-repeat ;
+border: 2px solid black;
+}
+
+.font{
+padding-left: 7%;
+padding-top: 2%;
+font-size: 30px;
+}
+
+.sidefont{
+padding-left: 50%;
+/* height: 1px;
+width: 1px; */
+}
+
+.font2{
+    padding-left: 7%;
+padding-top: 2%;
+color: red;
+
+}
+
+.font3{
+    padding-left: 7%;
+padding-top: 2%;
+}
+
+.font2 button{
+padding: 10px 15px 10px 15px;;
+font-size: 20px;
+border-radius: 10px solid black;
+color: white;
+background-color: royalblue;
+}
+
+.img1 img{
+margin: 10px;
+border-radius: 50%;
+margin-top: 17%;
+border: 3px solid white;
+
+
+
+}
+
+.font2 span:hover{
+    color:red;
+font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+            
